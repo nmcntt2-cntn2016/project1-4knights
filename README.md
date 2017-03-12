@@ -1,5 +1,5 @@
-# project1-4knights
-project1-4knights created by GitHub Classroom
+# Project1-4Knights
+Project1-4Knights created by GitHub Classroom
 
 ## Danh sách thành viên nhóm:
 Họ và tên | Mã số sinh viên
