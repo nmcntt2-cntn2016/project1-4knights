@@ -12,9 +12,9 @@ Phan Minh Sơn | 1612888
 ## Ý tưởng của nhóm: Hệ thống tính tiền điện nước tự động và thanh toán nhanh tại kí túc xá Đại học Quốc gia
 
 ### Làm gì?
-        Xây dựng một hệ thống tự động trong việc đo lường và tính toán tiền điện nước tại kí túc xá (KTX) ĐH Quốc gia
-  sau đó gửi thông tin về cơ sở dữ liệu trung tâm để trưởng nhà và ban điều hành kí túc xá dễ dàng quản lí, 
-  cùng với đó là một hệ thống thanh toán tiền ngay tại mỗi tòa nhà trong kí túc xá.
+  Xây dựng một hệ thống tự động trong việc đo lường và tính toán tiền điện nước tại kí túc xá (KTX) ĐH Quốc gia
+  sau đó gửi thông tin về cơ sở dữ liệu trung tâm để trưởng nhà và ban điều hành kí túc xá dễ dàng quản lí, cùng 
+  với đó là một hệ thống thanh toán tiền ngay tại mỗi tòa nhà trong kí túc xá.
 
 ### Tại sao làm?
    * Hiện nay trong KTX, việc quản lí tiền điện nước sử dụng hàng tháng tại các phòng trong mỗi tòa nhà tốn rất nhiều
