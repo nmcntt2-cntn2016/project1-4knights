@@ -25,10 +25,11 @@ Phan Minh Sơn | 1612888
      thường xảy ra những trường hợp sinh viên quên đóng tiền điện nước.
  
 ### Giải pháp chung
-   * Lắp đặt một hệ thống bao gồm: thiết bị tính toán tiền điện nước, một cơ sở dữ liệu đặt tại mỗi tòa nhà, thiết bị thanh
-     toán tại tầng trệt mỗi tòa nhà (vd: máy quẹt thẻ ATM).
+   * Lắp đặt một hệ thống bao gồm: thiết bị lấy số liệu điện nước, một chương trình tính phí điện nước, một cơ sở dữ liệu 
+     đặt tại mỗi tòa nhà, thiết bị thanh toán tại tầng trệt mỗi tòa nhà (vd: máy quẹt thẻ ATM).
    * Xây dựng một app di động giúp sinh viên và trưởng nhà có thể tra cứu thông tin mọi lúc mọi nơi, nhắc nhở sinh viên mỗi
      khi đến hạn đóng tiền.
      
 ### Đối tượng hướng đến
    * Người quản lí và sinh viên đang sinh sống tại KTX ĐH Quốc Gia
+   
