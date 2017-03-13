@@ -29,3 +29,6 @@ Phan Minh Sơn | 1612888
      toán tại tầng trệt mỗi tòa nhà (vd: máy quẹt thẻ ATM).
    * Xây dựng một app di động giúp sinh viên và trưởng nhà có thể tra cứu thông tin mọi lúc mọi nơi, nhắc nhở sinh viên mỗi
      khi đến hạn đóng tiền.
+     
+### Đối tượng hướng đến
+   * Người quản lí và sinh viên đang sinh sống tại KTX ĐH Quốc Gia
